@@ -2,7 +2,6 @@
 
 A high-performance token sniping platform for automated trading based on X (formerly Twitter) signals.
 
-![X Auto Sniper](https://source.unsplash.com/random/1200x630/?blockchain)
 
 ## Features
 
