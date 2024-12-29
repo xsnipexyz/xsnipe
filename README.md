@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This is a demo project for educational purposes only. No real trading occurs through this interface.
 
-Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/xsnipexyz?style=social)](https://twitter.com/xsnipexyz)
